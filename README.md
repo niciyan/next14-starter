@@ -1,3 +1,12 @@
+# References
+
+https://www.youtube.com/watch?v=vCOSTG10Y4o&t=3151s
+
+## Note
+
+- nextjs does not allow external images by default.
+- media query (css)
+
 ## Getting Started
 
 First, install the dependencies:
@@ -11,7 +20,6 @@ pnpm install
 # or
 bun install
 ```
-
 
 run the development server:
 
